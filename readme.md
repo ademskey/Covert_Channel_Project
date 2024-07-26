@@ -10,4 +10,9 @@ or file transferrs
 #####
 How to use:
 
+install dependencies for pyaudio
+sudo apt install portaudio19-dev
+
+install pyaudio
+pip3 install pyaudio
 
