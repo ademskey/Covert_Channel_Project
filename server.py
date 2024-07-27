@@ -5,7 +5,7 @@ import threading, wave, pyaudio,pickle,struct
 
 # Define hostname, hostip, print that to terminal, and then define port (arbirtrary)
 host_name = socket.gethostname()
-host_ip = '192.168.14.190'#  socket.gethostbyname(host_name)
+host_ip = '172.20.10.5'#  socket.gethostbyname(host_name)
 print(host_ip)
 port = 12345
 
